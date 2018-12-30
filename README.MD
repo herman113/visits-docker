@@ -1,4 +1,3 @@
 ## Visits App Using Docker
 
-Run this in the command line to create docker of image
-`docker build .`
+Run `docker build .` in the command line to create a docker image.
